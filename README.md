@@ -57,5 +57,5 @@ b) Expert interviews and career advice helped me chart a path toward roles like 
 
 c) I now have a portfolio of end-to-end projects to showcase my skills on GitHub and during interviews.
 
-**In short, this specialization didn’t just teach me algorithms—it empowered me to build real AI solutions and laid the groundwork for my continued growth in deep learning!**
+**In short, this specialization didn’t just teach me algorithms, it empowered me to build real AI solutions and laid the groundwork for my continued growth in deep learning!**
 
